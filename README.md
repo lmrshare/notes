@@ -1,2 +1,4 @@
-# notes
-notes about materials and papers
+# Notes
+
++ 平时读材料、论文所做的一些笔记.
++ 用了一些文献管理软件后, 还是觉得在原pdf上做笔记然后用git来管理这些pdf最方便.
